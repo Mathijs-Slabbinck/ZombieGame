@@ -1,0 +1,86 @@
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\c#\testGame1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\c#\testGame1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\c#\testGame1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\c#\testGame1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\c#\testGame1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\c#\testGame1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\prb\eigen projecten\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Mathijs Slabbinck\Documents\2D-game-2.0\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ClassLibrary1.dll
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ClassLibrary1.pdb
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\yolow\Documents\HOWEST\ownProjects\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
