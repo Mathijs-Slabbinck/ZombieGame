@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using ClassLibrary1;
 using static System.Net.Mime.MediaTypeNames;
 
 namespace WpfApp1
@@ -876,6 +877,8 @@ namespace WpfApp1
         {
             if (ReturnRandom(1, 5) == 1)
             {
+                Zombie zombie = new Zombie(level);
+
                 lblOutPut.Content = "A zombie appeared!";
                 lstCommands.Items.Clear();
                 btnStab.Visibility = Visibility.Visible;
@@ -885,13 +888,8 @@ namespace WpfApp1
                 lblDisplayLvl.Visibility = Visibility.Visible;
                 lblEnemyLevel.Visibility = Visibility.Visible;
                 lblEnemyHp.Visibility = Visibility.Visible;
-                zombieLvl = ReturnRandom(level - 2, level + 1);
-                if (zombieLvl <= 0)
-                {
-                    zombieLvl = 1;
-                }
-                lblEnemyHp.Content = zombieHp;
-                lblEnemyLevel.Content = zombieLvl;
+                lblEnemyHp.Content = zombie.Hp;
+                lblEnemyLevel.Content = zombie.Lvl;
             }
         }
 
